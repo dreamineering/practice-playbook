@@ -5,6 +5,9 @@ position: 2
 category: Getting Started
 ---
 
+Assumes you have already successfully installed the system. 
+
+## Roles
 
 ## Feedback Questions
 
