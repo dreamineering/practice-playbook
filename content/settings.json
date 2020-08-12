@@ -1,0 +1,10 @@
+{
+  "title": "Practice Playbook",
+  "url": "",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "dreamineering/practice-playbook",
+  "twitter": "@howzus"
+}
