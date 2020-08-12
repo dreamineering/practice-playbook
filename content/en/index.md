@@ -9,17 +9,6 @@ features:
   - Feature 3
 ---
 
-<img src="/preview.png" class="light-img" />
-<img src="/preview-dark.png" class="dark-img" />
-
-[Module]() for [NuxtJS](https://nuxtjs.org).
-
-<alert type="success">
-
-Your documentation has been created successfully!
-
-</alert>
-
 ## Features
 
 <list :items="features"></list>
