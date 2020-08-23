@@ -1,5 +1,5 @@
 ---
-title: Direction
+title: Growth
 description: ''
 position: 1
 category: Workflows

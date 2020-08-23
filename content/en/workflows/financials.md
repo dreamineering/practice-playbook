@@ -12,3 +12,5 @@ category: Workflows
 ## Bank Reconciliation
 
 ## Forecast Performance Analysis
+
+## Stock Control
